@@ -30,5 +30,10 @@
  2. Go to `Install` tab on the left
  3. Search by the package name (listed above) and hit install
 
+`Note`
+> I could do this to get a list of all packages installed in Atom
+>
+>  ![Atom dev tools](https://www.dropbox.com/s/gk1ji9fc6eww7q8/atom-is-awesome.png?dl=1)
+
 [^]: https://atom.io "Atom editor official website"
 [?]: https://web-design-weekly.com/2015/07/30/atom-vs-sublime/ "although Sublime Text is faster than Atom"
